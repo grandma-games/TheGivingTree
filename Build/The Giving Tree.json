@@ -1,0 +1,16 @@
+{
+"companyName": "RIP Grandma",
+"productName": "The Giving Tree",
+"productVersion": "1.0",
+"dataUrl": "The Giving Tree.data.unityweb",
+"wasmCodeUrl": "The Giving Tree.wasm.code.unityweb",
+"wasmFrameworkUrl": "The Giving Tree.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.20f1"
+}
