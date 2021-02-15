@@ -1,7 +1,7 @@
 {
 "companyName": "Grandma Games",
 "productName": "The Giving Tree",
-"productVersion": "1.0",
+"productVersion": "1.0.1",
 "dataUrl": "The Giving Tree.data.unityweb",
 "wasmCodeUrl": "The Giving Tree.wasm.code.unityweb",
 "wasmFrameworkUrl": "The Giving Tree.wasm.framework.unityweb",
